@@ -13,6 +13,7 @@ namespace STMS.DAL
 {
     public class ProductInfoDAL:BaseDAL<ProductInfo>
     {
+
         /// <summary>
         /// 根据查询条件返回产品信息
         /// </summary>
