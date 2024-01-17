@@ -16,6 +16,8 @@ namespace STML.Models.VModels
     public class ViewStoreRegionInfo:StoreRegionInfo
     {
         public string StoreName { get; set; }
+
+
         public string TemperStateText { get; set; }
 
 
